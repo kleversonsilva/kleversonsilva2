@@ -2,7 +2,7 @@
 
 - Hoje trabalho com Front-end
 - Estudando Typescript
-- 
+  
 
 
 

@@ -1,7 +1,8 @@
 ## Ola! Eu sou Kleverson silva✌️
 
-- Hoje trabalho com Front-end
-- Estudando Typescript
+- Hoje trabalho como Tutor de Programação(EAD)!
+- Cadêmico do Curso de Sistemas De Informação
+- Pela Universidadde Federal da Paraiba
 
 <div>  
 <a href="https://github.com/kleversonsilva">
